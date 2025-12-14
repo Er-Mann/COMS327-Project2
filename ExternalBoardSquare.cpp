@@ -20,3 +20,4 @@ RobotInfo ExternalBoardSquare::getRobotInfo() const
 {
     return m_squareInfo.robot;
 }
+

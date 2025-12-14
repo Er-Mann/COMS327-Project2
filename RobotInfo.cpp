@@ -1,5 +1,5 @@
-#include "SquareInfo.h"
 #include "RobotInfo.h"
+#include "SquareInfo.h"
 
 RobotInfo::RobotInfo()
     : robotPresent(false), color(WHITE)

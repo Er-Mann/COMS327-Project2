@@ -5,7 +5,7 @@ SquareInfo::SquareInfo()
 {
 }
 
-SquareInfo::SquareInfo(PBSquareContent c, PBColor squareColor, const RobotInfo &robotInfo)
+SquareInfo::SquareInfo(PBSquareContent c, PBColor squareColor, const RobotInfo& robotInfo)
     : content(c), color(squareColor), robot(robotInfo)
 {
 }
